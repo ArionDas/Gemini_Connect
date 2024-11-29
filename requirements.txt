@@ -2,3 +2,6 @@ ipykernel
 numpy
 pandas
 matplotlib
+google-generativeai
+python-dotenv
+scipy
